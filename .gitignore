@@ -1,0 +1,8 @@
+/config/supabase.local.php
+/config/*.secret.php
+/config/.env
+/.env
+.env.*
+/vendor/
+/logs/
+/database/migrations/.hermes-tmp.*

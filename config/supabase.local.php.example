@@ -1,0 +1,8 @@
+<?php
+// Copy this file to supabase.local.php. Keep the publishable/anon key local; never use service_role here.
+return [
+    'project_url' => 'https://xntitudhvosktvdaswqk.supabase.co',
+    'publishable_key' => 'REPLACE_WITH_SUPABASE_PUBLISHABLE_OR_ANON_KEY',
+    'max_read_retries' => 2,
+    'retry_base_ms' => 250,
+];
